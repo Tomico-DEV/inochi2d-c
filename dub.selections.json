@@ -4,9 +4,10 @@
 		"bindbc-loader": "1.0.3",
 		"bindbc-opengl": "1.0.5",
 		"fghj": "1.0.1",
+		"i2d-opengl": "1.0.0",
 		"imagefmt": "2.1.2",
 		"inmath": "1.0.5",
-		"inochi2d": "0.7.2",
+		"inochi2d": "0.8.2",
 		"mir-algorithm": "3.20.1",
 		"mir-core": "1.5.5",
 		"silly": "1.1.1"
