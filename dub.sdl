@@ -7,6 +7,9 @@ dependency "inochi2d" version="~>0.8.2"
 targetType "dynamicLibrary"
 targetPath "out/"
 
+# link zlib
+lflags "-lz"
+
 toolchainRequirements dmd="no" gdc="no" ldc=">=1.11.0"
 
 dflags "-mscrtlib=msvcrt" platform="windows-ldc" // Use the dynamic CRT on Windows.
